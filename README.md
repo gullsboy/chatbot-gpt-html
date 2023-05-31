@@ -1,2 +1,2 @@
 # chatbot-gpt-html
-V1
+Simple Code of an HTML Chatbot made with GPT-3 and Mobilenetv2 // V1
